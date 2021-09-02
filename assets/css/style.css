@@ -743,7 +743,7 @@ input:focus {
     left: 0;
     right: 0;
     filter: brightness(0.5);
-    background-image: url('/assets/img/gta-sample6.jpg');
+    background-image: url('../img/gta-sample6.jpg');
     background-size: cover;
 }
 
