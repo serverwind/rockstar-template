@@ -352,7 +352,7 @@ header nav span img {
     position: absolute;
     top: 0;
     bottom: 0;
-    background-image: url(/assets/img/play.png);
+    background-image: url(../img/play.png);
     left: 0;
     right: 0;
     background-repeat: no-repeat;
